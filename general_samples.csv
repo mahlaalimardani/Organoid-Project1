@@ -1,0 +1,1171 @@
+"GSE","GSM","tissue","type","platform","species","studyid"
+"GSE100542","GSM2686206","Liver","Tissue","RNA-Seq","mus_musculus",NA
+"GSE100542","GSM2686207","Liver","Tissue","RNA-Seq","mus_musculus",NA
+"GSE100542","GSM2686212","Liver","Organoid","RNA-Seq","mus_musculus","Ods000012"
+"GSE100542","GSM2686213","Liver","Organoid","RNA-Seq","mus_musculus","Ods000013"
+"GSE100542","GSM2686208","Liver","Tissue","RNA-Seq","mus_musculus",NA
+"GSE100542","GSM2686209","Liver","Tissue","RNA-Seq","mus_musculus",NA
+"GSE100542","GSM2686210","Liver","Tissue","RNA-Seq","mus_musculus",NA
+"GSE100542","GSM2686211","Liver","Tissue","RNA-Seq","mus_musculus",NA
+"GSE102335","GSM2734886","Brain","Cell","RNA-Seq","homo_sapiens",NA
+"GSE102335","GSM2734887","Brain","Cell","RNA-Seq","homo_sapiens",NA
+"GSE102335","GSM2734888","Brain","Cell","RNA-Seq","homo_sapiens",NA
+"GSE102335","GSM2734882","Brain","Organoid","RNA-Seq","homo_sapiens","Ods000100"
+"GSE102335","GSM2734889","Brain","Organoid","RNA-Seq","homo_sapiens","Ods000104"
+"GSE102335","GSM2734890","Brain","Organoid","RNA-Seq","homo_sapiens","Ods000105"
+"GSE102335","GSM2734891","Brain","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE102335","GSM2734892","Brain","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE102335","GSM2734893","Brain","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE102335","GSM2734894","Brain","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE102335","GSM2734895","Brain","Cell","RNA-Seq","homo_sapiens",NA
+"GSE102335","GSM2734896","Brain","Cell","RNA-Seq","homo_sapiens",NA
+"GSE102335","GSM2734897","Brain","Cell","RNA-Seq","homo_sapiens",NA
+"GSE102335","GSM2734883","Brain","Organoid","RNA-Seq","homo_sapiens","Ods000101"
+"GSE102335","GSM2734884","Brain","Organoid","RNA-Seq","homo_sapiens","Ods000102"
+"GSE102335","GSM2734885","Brain","Organoid","RNA-Seq","homo_sapiens","Ods000103"
+"GSE106510","GSM3456238","Intestine","Cell","scRNA-Seq(10X)","mus_musculus",NA
+"GSE106510","GSM3456239","Intestine","Cell","scRNA-Seq(10X)","mus_musculus",NA
+"GSE106510","GSM3456240","Intestine","Cell","scRNA-Seq(10X)","mus_musculus",NA
+"GSE106510","GSM3456241","Intestine","Cell","scRNA-Seq(10X)","mus_musculus",NA
+"GSE106510","GSM2839412","Intestine","Organoid","scRNA-Seq(10X)","mus_musculus","Ods000333"
+"GSE106510","GSM2839413","Intestine","Organoid","scRNA-Seq(10X)","mus_musculus","Ods000334"
+"GSE106510","GSM2839414","Intestine","Organoid","scRNA-Seq(10X)","mus_musculus","Ods000335"
+"GSE106510","GSM2839415","Intestine","Organoid","scRNA-Seq(10X)","mus_musculus","Ods000336"
+"GSE106821","GSM2854806","Cerebral cortex","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE106821","GSM2854807","Cerebral cortex","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE106821","GSM2854808","Cerebral cortex","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE106821","GSM2854812","Cerebral cortex","Organoid","RNA-Seq","homo_sapiens","Ods000350"
+"GSE106821","GSM2854813","Cerebral cortex","Organoid","RNA-Seq","homo_sapiens","Ods000351"
+"GSE106821","GSM2854814","Cerebral cortex","Organoid","RNA-Seq","homo_sapiens","Ods000352"
+"GSE106821","GSM2854818","Cerebral cortex","Organoid","RNA-Seq","homo_sapiens","Ods000356"
+"GSE106821","GSM2854819","Cerebral cortex","Organoid","RNA-Seq","homo_sapiens","Ods000357"
+"GSE106821","GSM2854820","Cerebral cortex","Organoid","RNA-Seq","homo_sapiens","Ods000358"
+"GSE106872","GSM4023870","Cerebral cortex","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE106872","GSM4023871","Cerebral cortex","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE106872","GSM4023872","Cerebral cortex","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE106872","GSM4023873","Cerebral cortex","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE108116","GSM2890251","Cerebral cortex","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE108116","GSM2890252","Cerebral cortex","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE108116","GSM2890253","Cerebral cortex","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE108116","GSM2890254","Cerebral cortex","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE108116","GSM2890255","Cerebral cortex","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE108116","GSM3398394","Cerebral cortex","Organoid","RNA-Seq","homo_sapiens","Ods000456"
+"GSE108116","GSM3398395","Cerebral cortex","Organoid","RNA-Seq","homo_sapiens","Ods000457"
+"GSE108351","GSM2895834","Kidney","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE108351","GSM2895839","Kidney","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE108351","GSM2895835","Kidney","Organoid","RNA-Seq","homo_sapiens","Ods000462"
+"GSE108351","GSM2895840","Kidney","Organoid","RNA-Seq","homo_sapiens","Ods000466"
+"GSE108351","GSM2895836","Kidney","Organoid","RNA-Seq","homo_sapiens","Ods000463"
+"GSE108351","GSM2895841","Kidney","Organoid","RNA-Seq","homo_sapiens","Ods000467"
+"GSE108351","GSM2895837","Kidney","Organoid","RNA-Seq","homo_sapiens","Ods000464"
+"GSE108351","GSM2895842","Kidney","Organoid","RNA-Seq","homo_sapiens","Ods000468"
+"GSE108351","GSM2895838","Kidney","Organoid","RNA-Seq","homo_sapiens","Ods000465"
+"GSE108351","GSM2895843","Kidney","Organoid","RNA-Seq","homo_sapiens","Ods000469"
+"GSE108854","GSM2915026","Pancreas","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE108854","GSM2915027","Pancreas","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE108854","GSM2915028","Pancreas","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE108854","GSM2915029","Pancreas","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE108854","GSM2915020","Pancreas","Organoid","RNA-Seq","homo_sapiens","Ods000488"
+"GSE108854","GSM2915021","Pancreas","Organoid","RNA-Seq","homo_sapiens","Ods000489"
+"GSE108854","GSM2915022","Pancreas","Organoid","RNA-Seq","homo_sapiens","Ods000490"
+"GSE108854","GSM2915030","Pancreas","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE108854","GSM2915031","Pancreas","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE108854","GSM2915032","Pancreas","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE108854","GSM2915033","Pancreas","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE108854","GSM2915034","Pancreas","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE108854","GSM2915035","Pancreas","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE108854","GSM2915036","Pancreas","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE108854","GSM2915037","Pancreas","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE108854","GSM2915023","Pancreas","Organoid","RNA-Seq","homo_sapiens","Ods000491"
+"GSE108854","GSM2915024","Pancreas","Organoid","RNA-Seq","homo_sapiens","Ods000492"
+"GSE108854","GSM2915025","Pancreas","Organoid","RNA-Seq","homo_sapiens","Ods000493"
+"GSE117345","GSM3291506","Intestine","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE117345","GSM3291507","Intestine","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE117345","GSM3291508","Intestine","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE117345","GSM3291524","Intestine","Organoid","RNA-Seq","homo_sapiens","Ods001241"
+"GSE117345","GSM3291525","Intestine","Organoid","RNA-Seq","homo_sapiens","Ods001242"
+"GSE117345","GSM3291526","Intestine","Organoid","RNA-Seq","homo_sapiens","Ods001243"
+"GSE117345","GSM3291512","Intestine","Cell","RNA-Seq","homo_sapiens",NA
+"GSE117345","GSM3291513","Intestine","Cell","RNA-Seq","homo_sapiens",NA
+"GSE117345","GSM3291514","Intestine","Cell","RNA-Seq","homo_sapiens",NA
+"GSE117345","GSM3291518","Intestine","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE117345","GSM3291519","Intestine","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE117345","GSM3291520","Intestine","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE117469","GSM3301474","Blood vessel","Cell","RNA-Seq","homo_sapiens",NA
+"GSE117469","GSM3301475","Blood vessel","Cell","RNA-Seq","homo_sapiens",NA
+"GSE117469","GSM3301476","Blood vessel","Cell","RNA-Seq","homo_sapiens",NA
+"GSE117469","GSM3301489","Blood vessel","Organoid","RNA-Seq","homo_sapiens","Ods001253"
+"GSE117469","GSM3301490","Blood vessel","Organoid","RNA-Seq","homo_sapiens","Ods001254"
+"GSE117469","GSM3301491","Blood vessel","Organoid","RNA-Seq","homo_sapiens","Ods001255"
+"GSE117469","GSM3301477","Blood vessel","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE117469","GSM3301478","Blood vessel","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE117469","GSM3301479","Blood vessel","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE117469","GSM3301480","Blood vessel","Cell","RNA-Seq","homo_sapiens",NA
+"GSE117469","GSM3301481","Blood vessel","Cell","RNA-Seq","homo_sapiens",NA
+"GSE117469","GSM3301482","Blood vessel","Cell","RNA-Seq","homo_sapiens",NA
+"GSE117469","GSM3301483","Blood vessel","Cell","RNA-Seq","homo_sapiens",NA
+"GSE117469","GSM3301484","Blood vessel","Cell","RNA-Seq","homo_sapiens",NA
+"GSE117469","GSM3301485","Blood vessel","Cell","RNA-Seq","homo_sapiens",NA
+"GSE117469","GSM3301492","Blood vessel","Organoid","RNA-Seq","homo_sapiens","Ods001256"
+"GSE117469","GSM3301493","Blood vessel","Organoid","RNA-Seq","homo_sapiens","Ods001257"
+"GSE117469","GSM3301494","Blood vessel","Organoid","RNA-Seq","homo_sapiens","Ods001258"
+"GSE117469","GSM3301486","Blood vessel","Cell","RNA-Seq","homo_sapiens",NA
+"GSE117469","GSM3301487","Blood vessel","Cell","RNA-Seq","homo_sapiens",NA
+"GSE117469","GSM3301488","Blood vessel","Cell","RNA-Seq","homo_sapiens",NA
+"GSE120145","GSM3394866","Liver","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE120145","GSM3394869","Liver","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE120145","GSM3394870","Liver","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE120145","GSM3394856","Liver","Organoid","RNA-Seq","homo_sapiens","Ods001686"
+"GSE120145","GSM3394857","Liver","Organoid","RNA-Seq","homo_sapiens","Ods001687"
+"GSE120145","GSM3394862","Liver","Organoid","RNA-Seq","homo_sapiens","Ods001692"
+"GSE120145","GSM3394858","Liver","Organoid","RNA-Seq","homo_sapiens","Ods001688"
+"GSE120145","GSM3394860","Liver","Organoid","RNA-Seq","homo_sapiens","Ods001690"
+"GSE120145","GSM3394863","Liver","Organoid","RNA-Seq","homo_sapiens","Ods001693"
+"GSE122729","GSM3484253","Brain","Organoid","RNA-Seq","homo_sapiens","Ods001740"
+"GSE122729","GSM3484254","Brain","Organoid","RNA-Seq","homo_sapiens","Ods001741"
+"GSE122729","GSM3484255","Brain","Organoid","RNA-Seq","homo_sapiens","Ods001742"
+"GSE122729","GSM3484256","Brain","Organoid","RNA-Seq","homo_sapiens","Ods001743"
+"GSE122729","GSM3484257","Brain","Organoid","RNA-Seq","homo_sapiens","Ods001744"
+"GSE122729","GSM3484258","Brain","Organoid","RNA-Seq","homo_sapiens","Ods001745"
+"GSE123133","GSM3496226","Bile duct","Tissue","RNA-Seq","mus_musculus",NA
+"GSE123133","GSM3496229","Bile duct","Tissue","RNA-Seq","mus_musculus",NA
+"GSE123133","GSM3496223","Bile duct","Organoid","RNA-Seq","mus_musculus","Ods002197"
+"GSE123133","GSM3496224","Bile duct","Organoid","RNA-Seq","mus_musculus","Ods002198"
+"GSE123133","GSM3496225","Bile duct","Organoid","RNA-Seq","mus_musculus","Ods002199"
+"GSE123498","GSM3505552","Liver","Cell","RNA-Seq","homo_sapiens",NA
+"GSE123498","GSM3505571","Liver","Cell","RNA-Seq","homo_sapiens",NA
+"GSE123498","GSM3505572","Liver","Cell","RNA-Seq","homo_sapiens",NA
+"GSE123498","GSM3505556","Liver","Organoid","RNA-Seq","homo_sapiens","Ods002203"
+"GSE123498","GSM3505562","Liver","Organoid","RNA-Seq","homo_sapiens","Ods002209"
+"GSE123498","GSM3505568","Liver","Organoid","RNA-Seq","homo_sapiens","Ods002215"
+"GSE123498","GSM3505553","Liver","Organoid","RNA-Seq","homo_sapiens","Ods002200"
+"GSE123498","GSM3505559","Liver","Organoid","RNA-Seq","homo_sapiens","Ods002206"
+"GSE123498","GSM3505565","Liver","Organoid","RNA-Seq","homo_sapiens","Ods002212"
+"GSE123498","GSM3505557","Liver","Organoid","RNA-Seq","homo_sapiens","Ods002204"
+"GSE123498","GSM3505563","Liver","Organoid","RNA-Seq","homo_sapiens","Ods002210"
+"GSE123498","GSM3505569","Liver","Organoid","RNA-Seq","homo_sapiens","Ods002216"
+"GSE123498","GSM3505554","Liver","Organoid","RNA-Seq","homo_sapiens","Ods002201"
+"GSE123498","GSM3505560","Liver","Organoid","RNA-Seq","homo_sapiens","Ods002207"
+"GSE123498","GSM3505566","Liver","Organoid","RNA-Seq","homo_sapiens","Ods002213"
+"GSE123498","GSM3505558","Liver","Organoid","RNA-Seq","homo_sapiens","Ods002205"
+"GSE123498","GSM3505564","Liver","Organoid","RNA-Seq","homo_sapiens","Ods002211"
+"GSE123498","GSM3505570","Liver","Organoid","RNA-Seq","homo_sapiens","Ods002217"
+"GSE123498","GSM3505555","Liver","Organoid","RNA-Seq","homo_sapiens","Ods002202"
+"GSE123498","GSM3505561","Liver","Organoid","RNA-Seq","homo_sapiens","Ods002208"
+"GSE123498","GSM3505567","Liver","Organoid","RNA-Seq","homo_sapiens","Ods002214"
+"GSE124472","GSM3534656","Kidney","Tissue","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE124472","GSM3534657","Kidney","Tissue","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE124472","GSM3534658","Kidney","Tissue","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE124472","GSM3534659","Kidney","Tissue","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE124472","GSM3534660","Kidney","Organoid","scRNA-Seq(10X)","homo_sapiens","Ods004416"
+"GSE124472","GSM3534661","Kidney","Organoid","scRNA-Seq(10X)","homo_sapiens","Ods004417"
+"GSE124472","GSM3534662","Kidney","Organoid","scRNA-Seq(10X)","homo_sapiens","Ods004418"
+"GSE124472","GSM3534663","Kidney","Organoid","scRNA-Seq(10X)","homo_sapiens","Ods004419"
+"GSE124569","GSM3526396","Retina","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE124569","GSM3526398","Retina","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE124569","GSM3526400","Retina","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE124569","GSM3526403","Retina","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE124569","GSM3526406","Retina","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE124569","GSM3526408","Retina","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE124569","GSM3526402","Retina","Organoid","RNA-Seq","homo_sapiens","Ods004422"
+"GSE124569","GSM3526405","Retina","Organoid","RNA-Seq","homo_sapiens","Ods004423"
+"GSE124569","GSM3526407","Retina","Organoid","RNA-Seq","homo_sapiens","Ods004424"
+"GSE124569","GSM3526409","Retina","Organoid","RNA-Seq","homo_sapiens","Ods004425"
+"GSE124569","GSM3526410","Retina","Organoid","RNA-Seq","homo_sapiens","Ods004426"
+"GSE127556","GSM3635485","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE127556","GSM3635486","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE127556","GSM3635487","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE127556","GSM3635488","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE127556","GSM3636069","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods004570"
+"GSE127556","GSM3636070","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods004571"
+"GSE127556","GSM3636071","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods004572"
+"GSE128717","GSM3683639","Liver","Cell","RNA-Seq","homo_sapiens",NA
+"GSE128717","GSM3683640","Liver","Cell","RNA-Seq","homo_sapiens",NA
+"GSE128717","GSM3683649","Liver","Organoid","RNA-Seq","homo_sapiens","Ods004779"
+"GSE128717","GSM3683650","Liver","Organoid","RNA-Seq","homo_sapiens","Ods004780"
+"GSE128717","GSM3683641","Liver","Cell","RNA-Seq","homo_sapiens",NA
+"GSE128717","GSM3683642","Liver","Cell","RNA-Seq","homo_sapiens",NA
+"GSE128717","GSM3683643","Liver","Cell","RNA-Seq","homo_sapiens",NA
+"GSE128717","GSM3683644","Liver","Cell","RNA-Seq","homo_sapiens",NA
+"GSE128717","GSM3683645","Liver","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE128717","GSM3683646","Liver","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE128717","GSM3683647","Liver","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE128717","GSM3683648","Liver","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE128717","GSM3683651","Liver","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE128717","GSM3683652","Liver","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE130318","GSM3735993","Prostate","Cell","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE130318","GSM3735994","Prostate","Organoid","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE131380","GSM3772925","Prostate","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE131380","GSM3772927","Prostate","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE131380","GSM3772928","Prostate","Organoid","RNA-Seq","homo_sapiens","Ods005051"
+"GSE131380","GSM3772929","Prostate","Organoid","RNA-Seq","homo_sapiens","Ods005052"
+"GSE131380","GSM3772930","Prostate","Organoid","RNA-Seq","homo_sapiens","Ods005053"
+"GSE131380","GSM3772931","Prostate","Organoid","RNA-Seq","homo_sapiens","Ods005054"
+"GSE131380","GSM3772926","Prostate","Cell","RNA-Seq","homo_sapiens",NA
+"GSE131845","GSM3822119","Prostate","Tissue","RNA-Seq","mus_musculus",NA
+"GSE131845","GSM3822120","Prostate","Tissue","RNA-Seq","mus_musculus",NA
+"GSE131845","GSM3822121","Prostate","Tissue","RNA-Seq","mus_musculus",NA
+"GSE131845","GSM3822129","Prostate","Organoid","RNA-Seq","mus_musculus","Ods005106"
+"GSE131845","GSM3822130","Prostate","Organoid","RNA-Seq","mus_musculus","Ods005107"
+"GSE131845","GSM3822124","Prostate","Tissue","RNA-Seq","mus_musculus",NA
+"GSE131845","GSM3822125","Prostate","Tissue","RNA-Seq","mus_musculus",NA
+"GSE131845","GSM3822126","Prostate","Tissue","RNA-Seq","mus_musculus",NA
+"GSE131845","GSM3822135","Prostate","Organoid","RNA-Seq","mus_musculus","Ods005112"
+"GSE131845","GSM3822136","Prostate","Organoid","RNA-Seq","mus_musculus","Ods005113"
+"GSE133087","GSM3899608","Pancreas","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE133087","GSM3899609","Pancreas","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE133087","GSM3899610","Pancreas","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE133087","GSM3899611","Pancreas","Organoid","RNA-Seq","homo_sapiens","Ods005262"
+"GSE133087","GSM3899612","Pancreas","Organoid","RNA-Seq","homo_sapiens","Ods005263"
+"GSE133087","GSM3899616","Pancreas","Organoid","RNA-Seq","homo_sapiens","Ods005267"
+"GSE133087","GSM3899617","Pancreas","Organoid","RNA-Seq","homo_sapiens","Ods005268"
+"GSE133087","GSM3899618","Pancreas","Organoid","RNA-Seq","homo_sapiens","Ods005269"
+"GSE133087","GSM3899622","Pancreas","Organoid","RNA-Seq","homo_sapiens","Ods005273"
+"GSE133087","GSM3899623","Pancreas","Organoid","RNA-Seq","homo_sapiens","Ods005274"
+"GSE133087","GSM3899624","Pancreas","Organoid","RNA-Seq","homo_sapiens","Ods005275"
+"GSE136929","GSM5468110","Retina","Organoid","RNA-Seq","homo_sapiens","Ods005542"
+"GSE136929","GSM5468111","Retina","Organoid","RNA-Seq","homo_sapiens","Ods005543"
+"GSE136929","GSM5468112","Retina","Organoid","RNA-Seq","homo_sapiens","Ods005544"
+"GSE136929","GSM5468116","Retina","Organoid","RNA-Seq","homo_sapiens","Ods005548"
+"GSE136929","GSM5468117","Retina","Organoid","RNA-Seq","homo_sapiens","Ods005549"
+"GSE136929","GSM5468118","Retina","Organoid","RNA-Seq","homo_sapiens","Ods005550"
+"GSE136929","GSM5468122","Retina","Organoid","RNA-Seq","homo_sapiens","Ods005554"
+"GSE136929","GSM5468123","Retina","Organoid","RNA-Seq","homo_sapiens","Ods005555"
+"GSE136929","GSM5468124","Retina","Organoid","RNA-Seq","homo_sapiens","Ods005556"
+"GSE136929","GSM5468133","Retina","Organoid","RNA-Seq","homo_sapiens","Ods005565"
+"GSE136929","GSM5468134","Retina","Organoid","RNA-Seq","homo_sapiens","Ods005566"
+"GSE136929","GSM5468135","Retina","Organoid","RNA-Seq","homo_sapiens","Ods005567"
+"GSE136929","GSM5468144","Retina","Organoid","RNA-Seq","homo_sapiens","Ods005576"
+"GSE136929","GSM5468145","Retina","Organoid","RNA-Seq","homo_sapiens","Ods005577"
+"GSE136929","GSM5468146","Retina","Organoid","RNA-Seq","homo_sapiens","Ods005578"
+"GSE136929","GSM5468158","Retina","Organoid","RNA-Seq","homo_sapiens","Ods005590"
+"GSE136929","GSM5468159","Retina","Organoid","RNA-Seq","homo_sapiens","Ods005591"
+"GSE136929","GSM5468172","Retina","Organoid","RNA-Seq","homo_sapiens","Ods005604"
+"GSE136929","GSM5468173","Retina","Organoid","RNA-Seq","homo_sapiens","Ods005605"
+"GSE136929","GSM5468174","Retina","Organoid","RNA-Seq","homo_sapiens","Ods005606"
+"GSE139101","GSM4130981","Brain","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE139101","GSM4130982","Brain","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE139101","GSM4130983","Brain","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE139101","GSM4130984","Brain","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE139101","GSM4130985","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005717"
+"GSE139101","GSM4130986","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005718"
+"GSE139101","GSM4130987","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005719"
+"GSE139101","GSM4130988","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005720"
+"GSE139101","GSM4130989","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005721"
+"GSE139101","GSM4130990","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005722"
+"GSE139101","GSM4130991","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005723"
+"GSE139101","GSM4130992","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005724"
+"GSE139101","GSM4130993","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005725"
+"GSE139101","GSM4130994","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005726"
+"GSE139101","GSM4130995","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005727"
+"GSE139101","GSM4130996","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005728"
+"GSE139101","GSM4130997","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005729"
+"GSE139101","GSM4130998","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005730"
+"GSE139101","GSM4130999","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005731"
+"GSE139101","GSM4131000","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005732"
+"GSE139101","GSM4131001","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005733"
+"GSE139101","GSM4131002","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005734"
+"GSE139101","GSM4131003","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005735"
+"GSE139101","GSM4131004","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005736"
+"GSE139101","GSM4131005","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005737"
+"GSE139101","GSM4131006","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005738"
+"GSE139101","GSM4131007","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005739"
+"GSE139101","GSM4131008","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005740"
+"GSE139101","GSM4131009","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005741"
+"GSE139101","GSM4131010","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005742"
+"GSE139101","GSM4131011","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005743"
+"GSE139101","GSM4131012","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005744"
+"GSE139101","GSM4131013","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005745"
+"GSE139101","GSM4131014","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005746"
+"GSE139101","GSM4131015","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005747"
+"GSE139101","GSM4131016","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005748"
+"GSE139101","GSM4131017","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005749"
+"GSE139101","GSM4131018","Brain","Organoid","RNA-Seq","homo_sapiens","Ods005750"
+"GSE140703","GSM4182275","Small Intestine","Cell","RNA-Seq","mus_musculus",NA
+"GSE140703","GSM4182277","Small Intestine","Cell","RNA-Seq","mus_musculus",NA
+"GSE140703","GSM4182279","Small Intestine","Cell","RNA-Seq","mus_musculus",NA
+"GSE140703","GSM4182269","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods006183"
+"GSE140703","GSM4182271","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods006185"
+"GSE140703","GSM4182273","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods006187"
+"GSE140703","GSM4182281","Small Intestine","Cell","RNA-Seq","mus_musculus",NA
+"GSE140703","GSM4182282","Small Intestine","Cell","RNA-Seq","mus_musculus",NA
+"GSE140703","GSM4182283","Small Intestine","Cell","RNA-Seq","mus_musculus",NA
+"GSE140843","GSM4188837","Cerebral cortex","Cell","RNA-Seq","homo_sapiens",NA
+"GSE140843","GSM4188838","Cerebral cortex","Cell","RNA-Seq","homo_sapiens",NA
+"GSE140843","GSM4188839","Cerebral cortex","Cell","RNA-Seq","homo_sapiens",NA
+"GSE140843","GSM4188840","Cerebral cortex","Cell","RNA-Seq","homo_sapiens",NA
+"GSE140843","GSM4188841","Cerebral cortex","Cell","RNA-Seq","homo_sapiens",NA
+"GSE140843","GSM4188842","Cerebral cortex","Cell","RNA-Seq","homo_sapiens",NA
+"GSE140843","GSM4188843","Cerebral cortex","Cell","RNA-Seq","homo_sapiens",NA
+"GSE140843","GSM4188844","Cerebral cortex","Cell","RNA-Seq","homo_sapiens",NA
+"GSE140843","GSM4188826","Cerebral cortex","Organoid","RNA-Seq","homo_sapiens","Ods006189"
+"GSE140843","GSM4188827","Cerebral cortex","Organoid","RNA-Seq","homo_sapiens","Ods006190"
+"GSE140843","GSM4188828","Cerebral cortex","Organoid","RNA-Seq","homo_sapiens","Ods006191"
+"GSE140843","GSM4188829","Cerebral cortex","Organoid","RNA-Seq","homo_sapiens","Ods006192"
+"GSE140843","GSM4188830","Cerebral cortex","Organoid","RNA-Seq","homo_sapiens","Ods006193"
+"GSE140843","GSM4188831","Cerebral cortex","Organoid","RNA-Seq","homo_sapiens","Ods006194"
+"GSE140843","GSM4188832","Cerebral cortex","Organoid","RNA-Seq","homo_sapiens","Ods006195"
+"GSE140843","GSM4188833","Cerebral cortex","Organoid","RNA-Seq","homo_sapiens","Ods006196"
+"GSE140843","GSM4188834","Cerebral cortex","Organoid","RNA-Seq","homo_sapiens","Ods006197"
+"GSE140843","GSM4188835","Cerebral cortex","Organoid","RNA-Seq","homo_sapiens","Ods006198"
+"GSE140843","GSM4188836","Cerebral cortex","Organoid","RNA-Seq","homo_sapiens","Ods006199"
+"GSE142166","GSM4221904","Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE142166","GSM4221907","Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE142166","GSM4221910","Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE142166","GSM4221913","Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE142166","GSM4221897","Intestine","Organoid","RNA-Seq","mus_musculus","Ods006480"
+"GSE142166","GSM4221900","Intestine","Organoid","RNA-Seq","mus_musculus","Ods006483"
+"GSE142166","GSM4221903","Intestine","Organoid","RNA-Seq","mus_musculus","Ods006486"
+"GSE142505","GSM4230635","Midbrain","Cell","RNA-Seq","homo_sapiens",NA
+"GSE142505","GSM4230636","Midbrain","Cell","RNA-Seq","homo_sapiens",NA
+"GSE142505","GSM4230637","Midbrain","Organoid","RNA-Seq","homo_sapiens","Ods006587"
+"GSE142505","GSM4230638","Midbrain","Organoid","RNA-Seq","homo_sapiens","Ods006588"
+"GSE142505","GSM4230639","Midbrain","Organoid","RNA-Seq","homo_sapiens","Ods006589"
+"GSE142505","GSM4230641","Midbrain","Organoid","RNA-Seq","homo_sapiens","Ods006591"
+"GSE142505","GSM4230642","Midbrain","Organoid","RNA-Seq","homo_sapiens","Ods006592"
+"GSE142505","GSM4230643","Midbrain","Organoid","RNA-Seq","homo_sapiens","Ods006593"
+"GSE142505","GSM4230644","Midbrain","Organoid","RNA-Seq","homo_sapiens","Ods006594"
+"GSE142505","GSM4230645","Midbrain","Organoid","RNA-Seq","homo_sapiens","Ods006595"
+"GSE142526","GSM4231316","Retina","Tissue","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE142526","GSM4231317","Retina","Tissue","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE142526","GSM4231318","Retina","Tissue","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE142526","GSM4231319","Retina","Tissue","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE142526","GSM4231320","Retina","Tissue","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE142526","GSM4231321","Retina","Tissue","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE142526","GSM4231322","Retina","Tissue","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE142526","GSM4231323","Retina","Tissue","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE142526","GSM4231324","Retina","Tissue","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE142526","GSM4231309","Retina","Organoid","scRNA-Seq(10X)","homo_sapiens","Ods006596"
+"GSE142526","GSM4231310","Retina","Organoid","scRNA-Seq(10X)","homo_sapiens","Ods006597"
+"GSE142526","GSM4231311","Retina","Organoid","scRNA-Seq(10X)","homo_sapiens","Ods006598"
+"GSE142526","GSM4231312","Retina","Organoid","scRNA-Seq(10X)","homo_sapiens","Ods006599"
+"GSE142526","GSM4231313","Retina","Organoid","scRNA-Seq(10X)","homo_sapiens","Ods006600"
+"GSE142526","GSM4231314","Retina","Organoid","scRNA-Seq(10X)","homo_sapiens","Ods006601"
+"GSE142526","GSM4231315","Retina","Organoid","scRNA-Seq(10X)","homo_sapiens","Ods006602"
+"GSE142526","GSM4231325","Retina","Spheroid","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE142526","GSM4231326","Retina","Spheroid","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE142526","GSM4231327","Retina","Spheroid","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE142526","GSM4231328","Retina","Spheroid","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE142526","GSM4231329","Retina","Spheroid","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE142526","GSM4231330","Retina","Spheroid","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE144062","GSM4278958","Midbrain","Cell","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE144062","GSM4278957","Midbrain","Organoid","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE144192","GSM4317746","Brain","Cell","RNA-Seq","homo_sapiens",NA
+"GSE144192","GSM4317747","Brain","Cell","RNA-Seq","homo_sapiens",NA
+"GSE144192","GSM4317750","Brain","Cell","RNA-Seq","homo_sapiens",NA
+"GSE144192","GSM4317751","Brain","Cell","RNA-Seq","homo_sapiens",NA
+"GSE144192","GSM4317754","Brain","Organoid","RNA-Seq","homo_sapiens","Ods006729"
+"GSE144192","GSM4317755","Brain","Organoid","RNA-Seq","homo_sapiens","Ods006730"
+"GSE144192","GSM4317756","Brain","Organoid","RNA-Seq","homo_sapiens","Ods006731"
+"GSE144825","GSM4297142","Cerebral cortex","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297143","Cerebral cortex","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297144","Cerebral cortex","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297145","Cerebral cortex","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297146","Cerebral cortex","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297147","Cerebral cortex","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297164","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297165","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297166","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297167","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297168","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297169","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297170","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297171","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297172","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297173","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297174","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297175","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297245","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297176","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297177","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297178","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297179","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297180","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297181","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297182","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297183","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297184","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297185","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297186","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297187","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297248","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297188","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297189","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297190","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297191","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297192","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297193","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297194","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297195","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297196","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297197","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297198","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297199","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297200","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297201","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297202","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297203","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE144825","GSM4297204","Cerebral cortex","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE146878","GSM4473295","Brain","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE146878","GSM4473296","Brain","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE146878","GSM4989038","Brain","Organoid","RNA-Seq","homo_sapiens","Ods007519"
+"GSE146878","GSM4989039","Brain","Organoid","RNA-Seq","homo_sapiens","Ods007520"
+"GSE146878","GSM4989030","Brain","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE146878","GSM4989031","Brain","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE146878","GSM4989034","Brain","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE146878","GSM4989035","Brain","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE148695","GSM4476760","Colon","Tissue","RNA-Seq","mus_musculus",NA
+"GSE148695","GSM4476764","Colon","Tissue","RNA-Seq","mus_musculus",NA
+"GSE148695","GSM4476768","Colon","Tissue","RNA-Seq","mus_musculus",NA
+"GSE148695","GSM5100840","Colon","Organoid","RNA-Seq","mus_musculus","Ods007713"
+"GSE148695","GSM5100841","Colon","Organoid","RNA-Seq","mus_musculus","Ods007714"
+"GSE148695","GSM5100842","Colon","Organoid","RNA-Seq","mus_musculus","Ods007715"
+"GSE148695","GSM5100852","Colon","Tissue","RNA-Seq","mus_musculus",NA
+"GSE148695","GSM5100853","Colon","Tissue","RNA-Seq","mus_musculus",NA
+"GSE148695","GSM5100854","Colon","Tissue","RNA-Seq","mus_musculus",NA
+"GSE148695","GSM5453662","Colon","Organoid","RNA-Seq","mus_musculus","Ods007728"
+"GSE148695","GSM5453663","Colon","Organoid","RNA-Seq","mus_musculus","Ods007729"
+"GSE148695","GSM5453664","Colon","Organoid","RNA-Seq","mus_musculus","Ods007730"
+"GSE150068","GSM4522986","Lung","Tissue","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE150068","GSM4522987","Lung","Organoid","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE150068","GSM4522988","Lung","Organoid","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE150068","GSM4522989","Lung","Organoid","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE151047","GSM5121251","Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE151047","GSM5121259","Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE151047","GSM5121267","Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE151047","GSM5121276","Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE151047","GSM4565325","Intestine","Organoid","RNA-Seq","mus_musculus","Ods008020"
+"GSE151047","GSM4565333","Intestine","Organoid","RNA-Seq","mus_musculus","Ods008028"
+"GSE151047","GSM4565337","Intestine","Organoid","RNA-Seq","mus_musculus","Ods008032"
+"GSE151047","GSM4565344","Intestine","Organoid","RNA-Seq","mus_musculus","Ods008039"
+"GSE151047","GSM4565351","Intestine","Organoid","RNA-Seq","mus_musculus","Ods008046"
+"GSE153698","GSM4649280","Stomach","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE153698","GSM4649281","Stomach","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE153698","GSM4649282","Stomach","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE153698","GSM4649283","Stomach","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE153698","GSM4649284","Stomach","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE153698","GSM4649285","Stomach","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE153698","GSM4649286","Stomach","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE153698","GSM4649287","Stomach","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE153698","GSM4649288","Stomach","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE153698","GSM4649289","Stomach","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE153698","GSM4649264","Stomach","Organoid","RNA-Seq","homo_sapiens","Ods008447"
+"GSE153698","GSM4649265","Stomach","Organoid","RNA-Seq","homo_sapiens","Ods008448"
+"GSE153698","GSM4649266","Stomach","Organoid","RNA-Seq","homo_sapiens","Ods008449"
+"GSE153698","GSM4649267","Stomach","Organoid","RNA-Seq","homo_sapiens","Ods008450"
+"GSE153698","GSM4649268","Stomach","Organoid","RNA-Seq","homo_sapiens","Ods008451"
+"GSE153698","GSM4649269","Stomach","Organoid","RNA-Seq","homo_sapiens","Ods008452"
+"GSE153698","GSM4649270","Stomach","Organoid","RNA-Seq","homo_sapiens","Ods008453"
+"GSE153698","GSM4649271","Stomach","Organoid","RNA-Seq","homo_sapiens","Ods008454"
+"GSE153698","GSM4649272","Stomach","Organoid","RNA-Seq","homo_sapiens","Ods008455"
+"GSE153698","GSM4649273","Stomach","Organoid","RNA-Seq","homo_sapiens","Ods008456"
+"GSE153698","GSM4649274","Stomach","Organoid","RNA-Seq","homo_sapiens","Ods008457"
+"GSE153698","GSM4649275","Stomach","Organoid","RNA-Seq","homo_sapiens","Ods008458"
+"GSE153698","GSM4649276","Stomach","Organoid","RNA-Seq","homo_sapiens","Ods008459"
+"GSE153698","GSM4649277","Stomach","Organoid","RNA-Seq","homo_sapiens","Ods008460"
+"GSE153698","GSM4649278","Stomach","Organoid","RNA-Seq","homo_sapiens","Ods008461"
+"GSE153698","GSM4649279","Stomach","Organoid","RNA-Seq","homo_sapiens","Ods008462"
+"GSE153698","GSM4649290","Stomach","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE153698","GSM4649291","Stomach","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE153698","GSM4649292","Stomach","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE153698","GSM4649293","Stomach","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE153698","GSM4649294","Stomach","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE153698","GSM4649295","Stomach","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE153698","GSM4649296","Stomach","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE153698","GSM4649297","Stomach","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE153698","GSM4649256","Stomach","Organoid","RNA-Seq","homo_sapiens","Ods008439"
+"GSE153698","GSM4649257","Stomach","Organoid","RNA-Seq","homo_sapiens","Ods008440"
+"GSE153698","GSM4649258","Stomach","Organoid","RNA-Seq","homo_sapiens","Ods008441"
+"GSE153698","GSM4649259","Stomach","Organoid","RNA-Seq","homo_sapiens","Ods008442"
+"GSE153698","GSM4649260","Stomach","Organoid","RNA-Seq","homo_sapiens","Ods008443"
+"GSE153698","GSM4649261","Stomach","Organoid","RNA-Seq","homo_sapiens","Ods008444"
+"GSE153698","GSM4649262","Stomach","Organoid","RNA-Seq","homo_sapiens","Ods008445"
+"GSE153698","GSM4649263","Stomach","Organoid","RNA-Seq","homo_sapiens","Ods008446"
+"GSE155241","GSM4697982","Lung","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE155241","GSM4697983","Lung","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE155241","GSM4697984","Lung","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE155241","GSM4697988","Lung","Organoid","RNA-Seq","homo_sapiens","Ods008544"
+"GSE155241","GSM4697989","Lung","Organoid","RNA-Seq","homo_sapiens","Ods008545"
+"GSE155241","GSM4697990","Lung","Organoid","RNA-Seq","homo_sapiens","Ods008546"
+"GSE157055","GSM4751784","Lung","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE157055","GSM4751785","Lung","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE157055","GSM4751787","Lung","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE157055","GSM4751788","Lung","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE157055","GSM4751782","Lung","Organoid","RNA-Seq","homo_sapiens","Ods008732"
+"GSE157055","GSM4751783","Lung","Organoid","RNA-Seq","homo_sapiens","Ods008733"
+"GSE157055","GSM4751786","Lung","Organoid","RNA-Seq","homo_sapiens","Ods008734"
+"GSE157057","GSM4751803","Lung","Cell","RNA-Seq","homo_sapiens",NA
+"GSE157057","GSM4751804","Lung","Cell","RNA-Seq","homo_sapiens",NA
+"GSE157057","GSM4751807","Lung","Cell","RNA-Seq","homo_sapiens",NA
+"GSE157057","GSM4751808","Lung","Cell","RNA-Seq","homo_sapiens",NA
+"GSE157057","GSM4751817","Lung","Cell","RNA-Seq","homo_sapiens",NA
+"GSE157057","GSM4751811","Lung","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE157057","GSM4751812","Lung","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE159926","GSM4850496","Liver","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE159926","GSM4850497","Liver","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE159926","GSM4850498","Liver","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE159926","GSM4850499","Liver","Organoid","RNA-Seq","homo_sapiens","Ods008951"
+"GSE159926","GSM4850500","Liver","Organoid","RNA-Seq","homo_sapiens","Ods008952"
+"GSE159926","GSM4850501","Liver","Organoid","RNA-Seq","homo_sapiens","Ods008953"
+"GSE159926","GSM4850502","Liver","Organoid","RNA-Seq","homo_sapiens","Ods008954"
+"GSE159926","GSM4850503","Liver","Organoid","RNA-Seq","homo_sapiens","Ods008955"
+"GSE159926","GSM4850504","Liver","Organoid","RNA-Seq","homo_sapiens","Ods008956"
+"GSE161928","GSM4923429","Liver","Tissue","RNA-Seq","mus_musculus",NA
+"GSE161928","GSM4923430","Liver","Organoid","RNA-Seq","mus_musculus",NA
+"GSE161928","GSM4923431","Lung","Tissue","RNA-Seq","mus_musculus",NA
+"GSE161928","GSM4923432","Lung","Organoid","RNA-Seq","mus_musculus",NA
+"GSE161928","GSM4923433","Kidney","Tissue","RNA-Seq","mus_musculus",NA
+"GSE161928","GSM4923434","Kidney","Organoid","RNA-Seq","mus_musculus",NA
+"GSE161953","GSM4928684","Intestine","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928693","Intestine","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928694","Intestine","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928695","Intestine","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928696","Intestine","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928697","Intestine","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928698","Intestine","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928699","Intestine","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928685","Intestine","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928686","Intestine","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928687","Intestine","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928688","Intestine","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928689","Intestine","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928690","Intestine","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928691","Intestine","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928692","Intestine","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928700","Intestine","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928701","Intestine","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928702","Intestine","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928703","Intestine","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928704","Intestine","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928705","Intestine","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928706","Intestine","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928707","Intestine","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928708","Intestine","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928709","Intestine","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928710","Intestine","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928711","Intestine","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928712","Intestine","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928713","Intestine","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928714","Intestine","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928715","Intestine","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928725","Intestine","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928726","Intestine","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928716","Intestine","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928717","Intestine","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928718","Intestine","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928719","Intestine","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928720","Intestine","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928721","Intestine","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928722","Intestine","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928723","Intestine","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE161953","GSM4928724","Intestine","Organoid","RNA-Seq","homo_sapiens",NA
+"GSE162547","GSM4954064","Pancreas","PSCs","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE162547","GSM4954065","Pancreas","Organoid","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE162547","GSM4954066","Pancreas","Organoid","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE162547","GSM4954067","Pancreas","Organoid","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE162547","GSM4954068","Pancreas","Organoid","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE162547","GSM4954069","Pancreas","Organoid","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE162547","GSM4954070","Pancreas","Organoid","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE162547","GSM4954071","Pancreas","Organoid","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE165158","GSM5025928","Intestine","Tissue","scRNA-Seq(10X)","mus_musculus",NA
+"GSE165158","GSM5025920","Intestine","Organoid","scRNA-Seq(10X)","mus_musculus","Ods009541"
+"GSE165158","GSM5025923","Intestine","Organoid","scRNA-Seq(10X)","mus_musculus","Ods009544"
+"GSE165158","GSM5025926","Intestine","Organoid","scRNA-Seq(10X)","mus_musculus","Ods009547"
+"GSE165158","GSM5025921","Intestine","Organoid","scRNA-Seq(10X)","mus_musculus","Ods009542"
+"GSE165158","GSM5025924","Intestine","Organoid","scRNA-Seq(10X)","mus_musculus","Ods009545"
+"GSE165158","GSM5025922","Intestine","Organoid","scRNA-Seq(10X)","mus_musculus","Ods009543"
+"GSE165158","GSM5025925","Intestine","Organoid","scRNA-Seq(10X)","mus_musculus","Ods009546"
+"GSE165158","GSM5025927","Intestine","Organoid","scRNA-Seq(10X)","mus_musculus","Ods009548"
+"GSE165158","GSM5027329","Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE165158","GSM5027330","Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE165158","GSM5027272","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009492"
+"GSE165158","GSM5027273","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009493"
+"GSE165158","GSM5027274","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009494"
+"GSE165158","GSM5027275","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009495"
+"GSE165158","GSM5027276","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009496"
+"GSE165158","GSM5027277","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009497"
+"GSE165158","GSM5027278","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009498"
+"GSE165158","GSM5027279","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009499"
+"GSE165158","GSM5027280","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009500"
+"GSE165158","GSM5027281","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009501"
+"GSE165158","GSM5027282","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009502"
+"GSE165158","GSM5027283","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009503"
+"GSE165158","GSM5027284","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009504"
+"GSE165158","GSM5027285","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009505"
+"GSE165158","GSM5027286","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009506"
+"GSE165158","GSM5027287","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009507"
+"GSE165158","GSM5027288","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009508"
+"GSE165158","GSM5027289","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009509"
+"GSE165158","GSM5027290","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009510"
+"GSE165158","GSM5027291","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009511"
+"GSE165158","GSM5027292","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009512"
+"GSE165158","GSM5027293","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009513"
+"GSE165158","GSM5027294","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009514"
+"GSE165158","GSM5027295","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009515"
+"GSE165158","GSM5027296","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009516"
+"GSE165158","GSM5027297","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009517"
+"GSE165158","GSM5027298","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009518"
+"GSE165158","GSM5027299","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009519"
+"GSE165158","GSM5027300","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009520"
+"GSE165158","GSM5027301","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009521"
+"GSE165158","GSM5027302","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009522"
+"GSE165158","GSM5027303","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009523"
+"GSE165158","GSM5027304","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009524"
+"GSE165158","GSM5027305","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009525"
+"GSE165158","GSM5027306","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009526"
+"GSE165158","GSM5027307","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009527"
+"GSE165158","GSM5027308","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009528"
+"GSE165158","GSM5027309","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009529"
+"GSE165158","GSM5027310","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009530"
+"GSE165158","GSM5027311","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009531"
+"GSE165158","GSM5027312","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009532"
+"GSE165158","GSM5027313","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009533"
+"GSE165158","GSM5027314","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009534"
+"GSE165158","GSM5027315","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009535"
+"GSE165158","GSM5027316","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009536"
+"GSE165158","GSM5027317","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009537"
+"GSE165158","GSM5027318","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009538"
+"GSE165158","GSM5027319","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009539"
+"GSE165158","GSM5027320","Intestine","Organoid","RNA-Seq","mus_musculus","Ods009540"
+"GSE165200","GSM5028160","Lung","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE165200","GSM5028161","Lung","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE165200","GSM5028162","Lung","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE165200","GSM5028163","Lung","Organoid","RNA-Seq","homo_sapiens","Ods009549"
+"GSE165200","GSM5028164","Lung","Organoid","RNA-Seq","homo_sapiens","Ods009550"
+"GSE165200","GSM5028165","Lung","Organoid","RNA-Seq","homo_sapiens","Ods009551"
+"GSE165200","GSM5028166","Lung","Organoid","RNA-Seq","homo_sapiens","Ods009552"
+"GSE165200","GSM5028167","Lung","Organoid","RNA-Seq","homo_sapiens","Ods009553"
+"GSE165200","GSM5028168","Lung","Organoid","RNA-Seq","homo_sapiens","Ods009554"
+"GSE165200","GSM5028169","Lung","Organoid","RNA-Seq","homo_sapiens","Ods009555"
+"GSE165200","GSM5028170","Lung","Organoid","RNA-Seq","homo_sapiens","Ods009556"
+"GSE165200","GSM5028171","Lung","Organoid","RNA-Seq","homo_sapiens","Ods009557"
+"GSE165200","GSM5028172","Lung","Organoid","RNA-Seq","homo_sapiens","Ods009558"
+"GSE165200","GSM5028173","Lung","Organoid","RNA-Seq","homo_sapiens","Ods009559"
+"GSE165200","GSM5028174","Lung","Organoid","RNA-Seq","homo_sapiens","Ods009560"
+"GSE165200","GSM5028175","Lung","Organoid","RNA-Seq","homo_sapiens","Ods009561"
+"GSE165571","GSM5044175","Breast","Cell","RNA-Seq","homo_sapiens",NA
+"GSE165571","GSM5044176","Breast","Cell","RNA-Seq","homo_sapiens",NA
+"GSE165571","GSM5044177","Breast","Cell","RNA-Seq","homo_sapiens",NA
+"GSE165571","GSM5044172","Breast","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE165571","GSM5044173","Breast","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE165571","GSM5044174","Breast","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE169368","GSM5198063","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198064","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198065","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198066","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198111","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010252"
+"GSE169368","GSM5198112","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010253"
+"GSE169368","GSM5198113","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010254"
+"GSE169368","GSM5198114","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010255"
+"GSE169368","GSM5198059","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198060","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198061","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198062","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198107","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010248"
+"GSE169368","GSM5198108","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010249"
+"GSE169368","GSM5198109","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010250"
+"GSE169368","GSM5198110","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010251"
+"GSE169368","GSM5198055","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198056","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198057","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198058","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198103","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010244"
+"GSE169368","GSM5198104","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010245"
+"GSE169368","GSM5198105","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010246"
+"GSE169368","GSM5198106","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010247"
+"GSE169368","GSM5198075","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198076","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198077","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198078","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198123","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010264"
+"GSE169368","GSM5198124","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010265"
+"GSE169368","GSM5198125","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010266"
+"GSE169368","GSM5198126","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010267"
+"GSE169368","GSM5198071","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198072","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198073","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198074","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198119","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010260"
+"GSE169368","GSM5198120","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010261"
+"GSE169368","GSM5198121","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010262"
+"GSE169368","GSM5198122","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010263"
+"GSE169368","GSM5198067","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198068","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198069","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198070","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198115","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010256"
+"GSE169368","GSM5198116","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010257"
+"GSE169368","GSM5198117","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010258"
+"GSE169368","GSM5198118","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010259"
+"GSE169368","GSM5198039","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198040","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198041","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198042","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198087","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010228"
+"GSE169368","GSM5198088","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010229"
+"GSE169368","GSM5198089","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010230"
+"GSE169368","GSM5198090","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010231"
+"GSE169368","GSM5198035","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198036","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198037","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198038","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198083","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010224"
+"GSE169368","GSM5198084","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010225"
+"GSE169368","GSM5198085","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010226"
+"GSE169368","GSM5198086","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010227"
+"GSE169368","GSM5198031","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198032","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198033","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198034","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198079","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010220"
+"GSE169368","GSM5198080","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010221"
+"GSE169368","GSM5198081","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010222"
+"GSE169368","GSM5198082","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010223"
+"GSE169368","GSM5198051","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198052","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198053","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198054","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198099","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010240"
+"GSE169368","GSM5198100","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010241"
+"GSE169368","GSM5198101","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010242"
+"GSE169368","GSM5198102","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010243"
+"GSE169368","GSM5198047","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198048","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198049","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198050","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198095","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010236"
+"GSE169368","GSM5198096","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010237"
+"GSE169368","GSM5198097","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010238"
+"GSE169368","GSM5198098","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010239"
+"GSE169368","GSM5198043","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198044","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198045","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198046","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE169368","GSM5198091","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010232"
+"GSE169368","GSM5198092","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010233"
+"GSE169368","GSM5198093","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010234"
+"GSE169368","GSM5198094","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods010235"
+"GSE175502","GSM5335528","Bile duct","PSCs","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE175502","GSM5335529","Bile duct","Organoid","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE180945","GSM5478754","Cerebral cortex","Cell","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE180945","GSM5478755","Cerebral cortex","Organoid","scRNA-Seq(10X)","homo_sapiens","Ods011092"
+"GSE180945","GSM5478756","Cerebral cortex","Organoid","scRNA-Seq(10X)","homo_sapiens","Ods011093"
+"GSE56930","GSM1371584","Intestine","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE56930","GSM1371578","Intestine","Organoid","RNA-Seq","homo_sapiens","Ods011520"
+"GSE56930","GSM1371579","Intestine","Organoid","RNA-Seq","homo_sapiens","Ods011521"
+"GSE56930","GSM1371568","Intestine","Organoid","RNA-Seq","homo_sapiens","Ods011513"
+"GSE65395","GSM1900658","Small Intestine","Cell","RNA-Seq","mus_musculus",NA
+"GSE65395","GSM1900659","Small Intestine","Cell","RNA-Seq","mus_musculus",NA
+"GSE65395","GSM1900646","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods011948"
+"GSE65395","GSM1900647","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods011949"
+"GSE65395","GSM1900648","Small Intestine","Spheroid","RNA-Seq","mus_musculus",NA
+"GSE65395","GSM1900649","Small Intestine","Spheroid","RNA-Seq","mus_musculus",NA
+"GSE65395","GSM1900650","Small Intestine","Spheroid","RNA-Seq","mus_musculus",NA
+"GSE73336","GSM1891196","Stomach","Tissue","RNA-Seq","mus_musculus",NA
+"GSE73336","GSM1891197","Stomach","Organoid","RNA-Seq","mus_musculus",NA
+"GSE80264","GSM2123101","Brain","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE80264","GSM2123102","Brain","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE80264","GSM2123103","Brain","Organoid","RNA-Seq","homo_sapiens","Ods012263"
+"GSE80264","GSM2123104","Brain","Organoid","RNA-Seq","homo_sapiens","Ods012264"
+"GSE80264","GSM2123105","Brain","Organoid","RNA-Seq","homo_sapiens","Ods012265"
+"GSE80264","GSM2123106","Brain","Organoid","RNA-Seq","homo_sapiens","Ods012266"
+"GSE82022","GSM2180138","Brain","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE82022","GSM2180139","Brain","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE82022","GSM2180142","Brain","Organoid","RNA-Seq","homo_sapiens","Ods012358"
+"GSE82022","GSM2180143","Brain","Organoid","RNA-Seq","homo_sapiens","Ods012359"
+"GSE82022","GSM2180144","Brain","Organoid","RNA-Seq","homo_sapiens","Ods012360"
+"GSE82022","GSM2180145","Brain","Organoid","RNA-Seq","homo_sapiens","Ods012361"
+"GSE82022","GSM2180140","Brain","Tissue","RNA-Seq","homo_sapiens","Ods012356"
+"GSE82022","GSM2180141","Brain","Tissue","RNA-Seq","homo_sapiens","Ods012357"
+"GSE82022","GSM2180146","Brain","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE84073","GSM2653819","Liver","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE84073","GSM2653820","Liver","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE84073","GSM2653821","Liver","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE84073","GSM2653822","Liver","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE84073","GSM2653833","Liver","Organoid","RNA-Seq","homo_sapiens","Ods012411"
+"GSE84073","GSM2653834","Liver","Organoid","RNA-Seq","homo_sapiens","Ods012412"
+"GSE84073","GSM2653835","Liver","Organoid","RNA-Seq","homo_sapiens","Ods012413"
+"GSE84073","GSM2653836","Liver","Organoid","RNA-Seq","homo_sapiens","Ods012414"
+"GSE84073","GSM2653837","Liver","Organoid","RNA-Seq","homo_sapiens","Ods012415"
+"GSE84073","GSM2653838","Liver","Organoid","RNA-Seq","homo_sapiens","Ods012416"
+"GSE92332","GSM4521364","Small Intestine","Tissue","scRNA-Seq(10X)","mus_musculus",NA
+"GSE92332","GSM4521365","Small Intestine","Tissue","scRNA-Seq(10X)","mus_musculus",NA
+"GSE92332","GSM2839461","Small Intestine","Organoid","scRNA-Seq(10X)","mus_musculus","Ods013100"
+"GSE92332","GSM2839462","Small Intestine","Organoid","scRNA-Seq(10X)","mus_musculus","Ods013101"
+"GSE92332","GSM2839463","Small Intestine","Organoid","scRNA-Seq(10X)","mus_musculus","Ods013102"
+"GSE92332","GSM2839464","Small Intestine","Organoid","scRNA-Seq(10X)","mus_musculus","Ods013103"
+"GSE93313","GSM2450835","Pancreas","Cell","RNA-Seq","mus_musculus",NA
+"GSE93313","GSM2450836","Pancreas","Cell","RNA-Seq","mus_musculus",NA
+"GSE93313","GSM2450837","Pancreas","Organoid","RNA-Seq","mus_musculus","Ods013155"
+"GSE93313","GSM2450838","Pancreas","Organoid","RNA-Seq","mus_musculus","Ods013156"
+"GSE94583","GSM2478807","Liver","Tissue","RNA-Seq","mus_musculus",NA
+"GSE94583","GSM2478811","Liver","Tissue","RNA-Seq","mus_musculus",NA
+"GSE94583","GSM2478815","Liver","Tissue","RNA-Seq","mus_musculus",NA
+"GSE94583","GSM2478816","Liver","Tissue","RNA-Seq","mus_musculus",NA
+"GSE94583","GSM2478823","Liver","Tissue","RNA-Seq","mus_musculus",NA
+"GSE94583","GSM2478863","Liver","Tissue","RNA-Seq","mus_musculus",NA
+"GSE94583","GSM2478860","Liver","Organoid","RNA-Seq","mus_musculus","Ods013212"
+"GSE94583","GSM2478861","Liver","Organoid","RNA-Seq","mus_musculus","Ods013213"
+"GSE94583","GSM2478862","Liver","Organoid","RNA-Seq","mus_musculus","Ods013214"
+"GSE94583","GSM2478864","Liver","Organoid","RNA-Seq","mus_musculus","Ods013215"
+"GSE94583","GSM2478865","Liver","Organoid","RNA-Seq","mus_musculus","Ods013216"
+"GSE94583","GSM2478866","Liver","Organoid","RNA-Seq","mus_musculus","Ods013217"
+"GSE95491","GSM2701724","Lymphoid Tissue","Cell","RNA-Seq","mus_musculus",NA
+"GSE95491","GSM2701725","Lymphoid Tissue","Cell","RNA-Seq","mus_musculus",NA
+"GSE95491","GSM2701726","Lymphoid Tissue","Cell","RNA-Seq","mus_musculus",NA
+"GSE95491","GSM2701727","Lymphoid Tissue","Cell","RNA-Seq","mus_musculus",NA
+"GSE95491","GSM2701728","Lymphoid Tissue","Cell","RNA-Seq","mus_musculus",NA
+"GSE95491","GSM2701729","Lymphoid Tissue","Cell","RNA-Seq","mus_musculus",NA
+"GSE95491","GSM2701730","Lymphoid Tissue","Cell","RNA-Seq","mus_musculus",NA
+"GSE95491","GSM2515274","Lymphoid Tissue","Organoid","RNA-Seq","mus_musculus","Ods013266"
+"GSE95491","GSM2515275","Lymphoid Tissue","Organoid","RNA-Seq","mus_musculus","Ods013267"
+"GSE95491","GSM2515276","Lymphoid Tissue","Organoid","RNA-Seq","mus_musculus","Ods013268"
+"GSE95491","GSM2515277","Lymphoid Tissue","Organoid","RNA-Seq","mus_musculus","Ods013269"
+"GSE95491","GSM2515278","Lymphoid Tissue","Organoid","RNA-Seq","mus_musculus","Ods013270"
+"GSE95491","GSM2515279","Lymphoid Tissue","Organoid","RNA-Seq","mus_musculus","Ods013271"
+"GSE95491","GSM2515280","Lymphoid Tissue","Organoid","RNA-Seq","mus_musculus","Ods013272"
+"GSE97882","GSM2579555","Cerebral cortex","Organoid","RNA-Seq","homo_sapiens","Ods013359"
+"GSE97882","GSM2579557","Cerebral cortex","Organoid","RNA-Seq","homo_sapiens","Ods013361"
+"GSE99291","GSM2640562","Colon","Tissue","RNA-Seq","mus_musculus",NA
+"GSE99291","GSM2640563","Colon","Tissue","RNA-Seq","mus_musculus",NA
+"GSE99291","GSM2640564","Colon","Tissue","RNA-Seq","mus_musculus",NA
+"GSE99291","GSM2640565","Colon","Tissue","RNA-Seq","mus_musculus",NA
+"GSE99291","GSM2640550","Colon","Organoid","RNA-Seq","mus_musculus","Ods013447"
+"GSE99291","GSM2640551","Colon","Organoid","RNA-Seq","mus_musculus","Ods013448"
+"GSE126798","GSM5430400","Liver","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE126798","GSM3613432","Liver","Organoid","RNA-Seq","homo_sapiens","Ods013807"
+"GSE126798","GSM3613433","Liver","Organoid","RNA-Seq","homo_sapiens","Ods013808"
+"GSE126798","GSM3613434","Liver","Organoid","RNA-Seq","homo_sapiens","Ods013809"
+"GSE126798","GSM3613435","Liver","Organoid","RNA-Seq","homo_sapiens","Ods013810"
+"GSE126798","GSM3613436","Liver","Organoid","RNA-Seq","homo_sapiens","Ods013811"
+"GSE155498","GSM5527668","Bile duct","Organoid","RNA-Seq","homo_sapiens","Ods013944"
+"GSE155498","GSM5527669","Bile duct","Organoid","RNA-Seq","homo_sapiens","Ods013945"
+"GSE155498","GSM5527670","Bile duct","Organoid","RNA-Seq","homo_sapiens","Ods013946"
+"GSE155498","GSM5527671","Bile duct","Organoid","RNA-Seq","homo_sapiens","Ods013947"
+"GSE155498","GSM5527672","Bile duct","Organoid","RNA-Seq","homo_sapiens","Ods013948"
+"GSE155498","GSM5527664","Bile duct","Cell","RNA-Seq","homo_sapiens",NA
+"GSE155498","GSM5527665","Bile duct","Cell","RNA-Seq","homo_sapiens",NA
+"GSE155498","GSM5527666","Bile duct","Cell","RNA-Seq","homo_sapiens",NA
+"GSE155498","GSM5527667","Bile duct","Cell","RNA-Seq","homo_sapiens",NA
+"GSE165309","GSM5030013","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE165309","GSM5030014","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE165309","GSM5030015","Small Intestine","Tissue","RNA-Seq","mus_musculus",NA
+"GSE165309","GSM5030016","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods014083"
+"GSE165309","GSM5030017","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods014084"
+"GSE165309","GSM5030018","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods014085"
+"GSE165309","GSM5030019","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods014086"
+"GSE165309","GSM5030020","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods014087"
+"GSE165309","GSM5030021","Small Intestine","Organoid","RNA-Seq","mus_musculus","Ods014088"
+"GSE165309","GSM5030022","Stomach","Tissue","RNA-Seq","mus_musculus",NA
+"GSE165309","GSM5030023","Stomach","Tissue","RNA-Seq","mus_musculus",NA
+"GSE165309","GSM5030024","Stomach","Tissue","RNA-Seq","mus_musculus",NA
+"GSE165309","GSM5030025","Stomach","Organoid","RNA-Seq","mus_musculus","Ods014089"
+"GSE165309","GSM5030026","Stomach","Organoid","RNA-Seq","mus_musculus","Ods014090"
+"GSE165309","GSM5030027","Stomach","Organoid","RNA-Seq","mus_musculus","Ods014091"
+"GSE165309","GSM5030028","Stomach","Organoid","RNA-Seq","mus_musculus","Ods014092"
+"GSE165309","GSM5030029","Stomach","Organoid","RNA-Seq","mus_musculus","Ods014093"
+"GSE165309","GSM5030030","Stomach","Organoid","RNA-Seq","mus_musculus","Ods014094"
+"GSE178263","GSM5386058","Kidney","Tissue","scRNA-Seq(10X)","mus_musculus",NA
+"GSE178263","GSM5386059","Kidney","Organoid","scRNA-Seq(10X)","mus_musculus","Ods014396"
+"GSE178263","GSM5386060","Kidney","Organoid","scRNA-Seq(10X)","mus_musculus","Ods014397"
+"GSE181430","GSM5502238","Fetal salivary gland","Tissue","scRNA-Seq(10X)","mus_musculus",NA
+"GSE181430","GSM5771829","Fetal salivary gland","Organoid","scRNA-Seq(10X)","mus_musculus",NA
+"GSE181430","GSM5771830","Fetal salivary gland","Organoid","scRNA-Seq(10X)","mus_musculus",NA
+"GSE186444","GSM5651840","Liver","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE186444","GSM5651841","Liver","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE186444","GSM5651842","Liver","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE186444","GSM5651843","Liver","Organoid","RNA-Seq","homo_sapiens","Ods014826"
+"GSE186444","GSM5651845","Liver","Organoid","RNA-Seq","homo_sapiens","Ods014827"
+"GSE198844","GSM5957793","Ureter","Cell","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE198844","GSM5957794","Ureter","Organoid","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE202308","GSM6108255","Embryo","PSCs","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE202308","GSM6108256","Embryo","Organoid","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE202308","GSM6108257","Embryo","Organoid","scRNA-Seq(10X)","homo_sapiens",NA
+"E-MTAB-4868","ERR1474890","Midbrain","Cell","RNA-Seq","homo_sapiens",NA
+"E-MTAB-4868","ERR1474891","Midbrain","Cell","RNA-Seq","homo_sapiens",NA
+"E-MTAB-4868","ERR1474892","Midbrain","Cell","RNA-Seq","homo_sapiens",NA
+"E-MTAB-4868","ERR1474893","Midbrain","Organoid","RNA-Seq","homo_sapiens","Ods015483"
+"E-MTAB-4868","ERR1474894","Midbrain","Organoid","RNA-Seq","homo_sapiens","Ods015485"
+"E-MTAB-4868","ERR1474895","Midbrain","Organoid","RNA-Seq","homo_sapiens","Ods015487"
+"E-MTAB-4868","ERR1474896","Midbrain","Organoid","RNA-Seq","homo_sapiens","Ods015489"
+"E-MTAB-4868","ERR1474897","Midbrain","Organoid","RNA-Seq","homo_sapiens","Ods015491"
+"E-MTAB-4868","ERR1474898","Midbrain","Organoid","RNA-Seq","homo_sapiens","Ods015493"
+"E-MTAB-4868","ERR1474899","Midbrain","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-4868","ERR1474900","Midbrain","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-4868","ERR1474901","Midbrain","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-4868","ERR1474902","Midbrain","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-4868","ERR1474903","Midbrain","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-4868","ERR1474904","Midbrain","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-4868","ERR1474905","Midbrain","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-4868","ERR1474906","Midbrain","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-4868","ERR1474907","Midbrain","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-4868","ERR1474908","Midbrain","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-6023","ERR2870221","Lung","PSCs","RNA-Seq","homo_sapiens",NA
+"E-MTAB-6023","ERR2870222","Lung","PSCs","RNA-Seq","homo_sapiens",NA
+"E-MTAB-6023","ERR2870223","Lung","PSCs","RNA-Seq","homo_sapiens",NA
+"E-MTAB-6023","ERR2870200","Lung","Organoid","RNA-Seq","homo_sapiens","Ods015535"
+"E-MTAB-6023","ERR2870201","Lung","Organoid","RNA-Seq","homo_sapiens","Ods015536"
+"E-MTAB-6023","ERR2870202","Lung","Organoid","RNA-Seq","homo_sapiens","Ods015537"
+"E-MTAB-6023","ERR2870218","Lung","Spheroid","RNA-Seq","homo_sapiens",NA
+"E-MTAB-6023","ERR2870219","Lung","Spheroid","RNA-Seq","homo_sapiens",NA
+"E-MTAB-6023","ERR2870220","Lung","Spheroid","RNA-Seq","homo_sapiens",NA
+"E-MTAB-6023","ERR2870193","Lung","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-6023","ERR2870194","Lung","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-6023","ERR2870195","Lung","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-6023","ERR2870209","Lung","Organoid","RNA-Seq","homo_sapiens","Ods015541"
+"E-MTAB-6023","ERR2870210","Lung","Organoid","RNA-Seq","homo_sapiens","Ods015542"
+"E-MTAB-6023","ERR2870211","Lung","Organoid","RNA-Seq","homo_sapiens","Ods015543"
+"E-MTAB-6023","ERR2870212","Lung","Organoid","RNA-Seq","homo_sapiens","Ods015544"
+"E-MTAB-6023","ERR2870213","Lung","Organoid","RNA-Seq","homo_sapiens","Ods015545"
+"E-MTAB-6023","ERR2870214","Lung","Organoid","RNA-Seq","homo_sapiens","Ods015546"
+"E-MTAB-6023","ERR2870196","Lung","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-6023","ERR2870197","Lung","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-6023","ERR2870198","Lung","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-6023","ERR2870199","Lung","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7569","ERR3053529","Bile duct","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7569","ERR3053530","Bile duct","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7569","ERR3053531","Bile duct","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7569","ERR3053532","Bile duct","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7569","ERR3053533","Bile duct","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7569","ERR3053534","Bile duct","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7569","ERR3053535","Bile duct","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7569","ERR3053536","Bile duct","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7569","ERR3053537","Bile duct","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7569","ERR3053538","Bile duct","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7569","ERR3053539","Bile duct","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7569","ERR3053540","Bile duct","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7569","ERR3053541","Bile duct","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7569","ERR3053542","Bile duct","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7569","ERR3053543","Bile duct","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7569","ERR3053544","Bile duct","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7569","ERR3053502","Bile duct","Organoid","RNA-Seq","homo_sapiens","Ods015590"
+"E-MTAB-7569","ERR3053503","Bile duct","Organoid","RNA-Seq","homo_sapiens","Ods015591"
+"E-MTAB-7569","ERR3053504","Bile duct","Organoid","RNA-Seq","homo_sapiens","Ods015592"
+"E-MTAB-7569","ERR3053505","Bile duct","Organoid","RNA-Seq","homo_sapiens","Ods015593"
+"E-MTAB-7569","ERR3053506","Bile duct","Organoid","RNA-Seq","homo_sapiens","Ods015594"
+"E-MTAB-7569","ERR3053507","Bile duct","Organoid","RNA-Seq","homo_sapiens","Ods015595"
+"E-MTAB-7569","ERR3053508","Bile duct","Organoid","RNA-Seq","homo_sapiens","Ods015596"
+"E-MTAB-7569","ERR3053509","Bile duct","Organoid","RNA-Seq","homo_sapiens","Ods015597"
+"E-MTAB-7569","ERR3053510","Bile duct","Organoid","RNA-Seq","homo_sapiens","Ods015598"
+"E-MTAB-7569","ERR3053511","Bile duct","Organoid","RNA-Seq","homo_sapiens","Ods015599"
+"E-MTAB-7569","ERR3053512","Bile duct","Organoid","RNA-Seq","homo_sapiens","Ods015600"
+"E-MTAB-7569","ERR3053513","Bile duct","Organoid","RNA-Seq","homo_sapiens","Ods015601"
+"E-MTAB-7860","ERR3765712","Colon","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7860","ERR3765713","Colon","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7860","ERR3765714","Colon","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7860","ERR3765715","Colon","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7860","ERR3765716","Colon","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7860","ERR3765717","Colon","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7860","ERR3765718","Colon","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7860","ERR3765719","Colon","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7860","ERR3765760","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015649"
+"E-MTAB-7860","ERR3765761","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015650"
+"E-MTAB-7860","ERR3765762","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015651"
+"E-MTAB-7860","ERR3765763","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015652"
+"E-MTAB-7860","ERR3765764","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015653"
+"E-MTAB-7860","ERR3765765","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015654"
+"E-MTAB-7860","ERR3765766","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015655"
+"E-MTAB-7860","ERR3765767","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015656"
+"E-MTAB-7860","ERR3765776","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015673"
+"E-MTAB-7860","ERR3765777","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015674"
+"E-MTAB-7860","ERR3765778","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015675"
+"E-MTAB-7860","ERR3765779","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015676"
+"E-MTAB-7860","ERR3765780","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015677"
+"E-MTAB-7860","ERR3765781","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015678"
+"E-MTAB-7860","ERR3765782","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015679"
+"E-MTAB-7860","ERR3765783","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015680"
+"E-MTAB-7860","ERR3765784","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015697"
+"E-MTAB-7860","ERR3765785","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015698"
+"E-MTAB-7860","ERR3765786","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015699"
+"E-MTAB-7860","ERR3765787","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015700"
+"E-MTAB-7860","ERR3765788","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015701"
+"E-MTAB-7860","ERR3765789","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015702"
+"E-MTAB-7860","ERR3765790","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015703"
+"E-MTAB-7860","ERR3765791","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015704"
+"E-MTAB-7860","ERR3765720","Colon","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7860","ERR3765721","Colon","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7860","ERR3765722","Colon","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7860","ERR3765723","Colon","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7860","ERR3765724","Colon","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7860","ERR3765725","Colon","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7860","ERR3765726","Colon","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-7860","ERR3765727","Colon","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-11026","ERR7056412","Colon","PSCs","RNA-Seq","homo_sapiens",NA
+"E-MTAB-11026","ERR7056413","Colon","PSCs","RNA-Seq","homo_sapiens",NA
+"E-MTAB-11026","ERR7056414","Colon","PSCs","RNA-Seq","homo_sapiens",NA
+"E-MTAB-11026","ERR7056415","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015864"
+"E-MTAB-11026","ERR7056416","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015866"
+"E-MTAB-11026","ERR7056417","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015868"
+"E-MTAB-11026","ERR7056418","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015870"
+"E-MTAB-11026","ERR7056419","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015872"
+"E-MTAB-11026","ERR7056420","Colon","Organoid","RNA-Seq","homo_sapiens","Ods015874"
+"GSE108291","GSM2914994","Kidney","Tissue","scRNA-Seq(10X)","mus_musculus",NA
+"GSE108291","GSM2914995","Kidney","Tissue","scRNA-Seq(10X)","mus_musculus",NA
+"GSE108291","GSM2914996","Kidney","Tissue","scRNA-Seq(10X)","mus_musculus",NA
+"GSE144553","GSM4288824","Lung","Organoid","scRNA-Seq(10X)","mus_musculus","Ods006778"
+"GSE144553","GSM4304610","Lung","Tissue","scRNA-Seq(10X)","mus_musculus",NA
+"GSE144553","GSM4304612","Lung","Tissue","scRNA-Seq(10X)","mus_musculus",NA
+"GSE144553","GSM4304614","Lung","Tissue","scRNA-Seq(10X)","mus_musculus",NA
+"GSE190565","GSM5725785","Lung","Cell","scRNA-Seq(10X)","mus_musculus",NA
+"GSE190565","GSM5725786","Lung","Cell","scRNA-Seq(10X)","mus_musculus",NA
+"GSE190565","GSM5725787","Lung","Cell","scRNA-Seq(10X)","mus_musculus",NA
+"GSE190565","GSM5725789","Lung","Cell","scRNA-Seq(10X)","mus_musculus",NA
+"GSE190565","GSM5725790","Lung","Organoid","scRNA-Seq(10X)","mus_musculus","Ods013683"
+"GSE190565","GSM5725791","Lung","Organoid","scRNA-Seq(10X)","mus_musculus","Ods013684"
+"GSE190565","GSM5725794","Lung","Organoid","scRNA-Seq(10X)","mus_musculus","Ods013685"
+"GSE190565","GSM5725795","Lung","Organoid","scRNA-Seq(10X)","mus_musculus","Ods013686"
+"GSE190565","GSM5725796","Lung","Organoid","scRNA-Seq(10X)","mus_musculus","Ods013687"
+"GSE190565","GSM5725797","Lung","Cell","scRNA-Seq(10X)","mus_musculus",NA
+"GSE190565","GSM5725798","Lung","Cell","scRNA-Seq(10X)","mus_musculus",NA
+"GSE142431","GSM4227191","Small Intestine","Spheroid","scRNA-Seq(Drop-Seq)","mus_musculus",NA
+"GSE115112","GSM3165452","Breast","Organoid","RNA-Seq","homo_sapiens","Ods001077"
+"GSE115112","GSM3165453","Breast","Organoid","RNA-Seq","homo_sapiens","Ods001078"
+"GSE115112","GSM3165454","Breast","Organoid","RNA-Seq","homo_sapiens","Ods001079"
+"GSE115112","GSM3165455","Breast","Organoid","RNA-Seq","homo_sapiens","Ods001080"
+"GSE115112","GSM3165464","Breast","Organoid","RNA-Seq","homo_sapiens","Ods001089"
+"GSE115112","GSM3165465","Breast","Organoid","RNA-Seq","homo_sapiens","Ods001090"
+"GSE115112","GSM3165466","Breast","Organoid","RNA-Seq","homo_sapiens","Ods001091"
+"GSE115112","GSM3165467","Breast","Organoid","RNA-Seq","homo_sapiens","Ods001092"
+"GSE115112","GSM3165468","Breast","Organoid","RNA-Seq","homo_sapiens","Ods001093"
+"GSE115112","GSM3165477","Breast","Organoid","RNA-Seq","homo_sapiens","Ods001102"
+"GSE115112","GSM3165478","Breast","Organoid","RNA-Seq","homo_sapiens","Ods001103"
+"GSE115112","GSM3165479","Breast","Organoid","RNA-Seq","homo_sapiens","Ods001104"
+"GSE115112","GSM3165480","Breast","Organoid","RNA-Seq","homo_sapiens","Ods001105"
+"GSE115112","GSM3165481","Breast","Organoid","RNA-Seq","homo_sapiens","Ods001106"
+"GSE115112","GSM3165490","Breast","Organoid","RNA-Seq","homo_sapiens","Ods001115"
+"GSE52194","GSM1261033","Breast","Organoid","RNA-Seq","homo_sapiens","Ods011481"
+"GSE52194","GSM1261034","Breast","Organoid","RNA-Seq","homo_sapiens","Ods011482"
+"GSE52194","GSM1261035","Breast","Organoid","RNA-Seq","homo_sapiens","Ods011483"
+"GSE99821","GSM2653595","Colon","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE99821","GSM2653596","Colon","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE99821","GSM2653597","Colon","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE99821","GSM2653601","Colon","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE99821","GSM2653602","Colon","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE99821","GSM2653603","Colon","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE99821","GSM2653607","Colon","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE99821","GSM2653608","Colon","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE99821","GSM2653609","Colon","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE99821","GSM2653613","Colon","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE99821","GSM2653614","Colon","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE99821","GSM2653615","Colon","PSCs","RNA-Seq","homo_sapiens",NA
+"E-MTAB-5015","ERR1578743","Colon","Cell","RNA-Seq","homo_sapiens",NA
+"E-MTAB-5015","ERR1578744","Colon","Cell","RNA-Seq","homo_sapiens",NA
+"E-MTAB-5015","ERR1578749","Colon","Cell","RNA-Seq","homo_sapiens",NA
+"E-MTAB-5015","ERR1578750","Colon","Cell","RNA-Seq","homo_sapiens",NA
+"E-MTAB-5015","ERR1578752","Colon","Cell","RNA-Seq","homo_sapiens",NA
+"E-MTAB-5015","ERR1578753","Colon","Cell","RNA-Seq","homo_sapiens",NA
+"E-MTAB-5015","ERR1578754","Colon","Cell","RNA-Seq","homo_sapiens",NA
+"E-MTAB-5015","ERR1578755","Colon","Cell","RNA-Seq","homo_sapiens",NA
+"E-MTAB-5015","ERR1578756","Colon","Cell","RNA-Seq","homo_sapiens",NA
+"E-MTAB-5015","ERR1578757","Colon","Cell","RNA-Seq","homo_sapiens",NA
+"E-MTAB-5015","ERR1578758","Colon","Cell","RNA-Seq","homo_sapiens",NA
+"GSE164268","GSM5005488","Blood vessel","Organoid","RNA-Seq","homo_sapiens","Ods009386"
+"GSE89475","GSM2373096","Blood vessel","Organoid","RNA-Seq","homo_sapiens","Ods012591"
+"GSE89475","GSM2373098","Blood vessel","Organoid","RNA-Seq","homo_sapiens","Ods012593"
+"GSE80538","GSM2130404","Brain","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE80538","GSM2130405","Brain","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE80538","GSM2130406","Brain","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE80538","GSM2130410","Brain","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE80538","GSM2130411","Brain","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE80538","GSM2130412","Brain","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE80538","GSM2130416","Brain","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE80538","GSM2130417","Brain","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE80538","GSM2130418","Brain","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE80538","GSM2130422","Brain","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE80538","GSM2130423","Brain","Spheroid","RNA-Seq","homo_sapiens",NA
+"GSE80538","GSM2130424","Brain","Spheroid","RNA-Seq","homo_sapiens",NA
+"E-MTAB-9957","ERR5022068","Kidney","PSCs","RNA-Seq","homo_sapiens",NA
+"E-MTAB-9957","ERR5022069","Kidney","PSCs","RNA-Seq","homo_sapiens",NA
+"GSE148937","GSM4486307","Prostate","Cell","RNA-Seq","homo_sapiens",NA
+"GSE148937","GSM4486308","Prostate","Cell","RNA-Seq","homo_sapiens",NA
+"GSE148937","GSM4486297","Prostate","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE148937","GSM4486298","Prostate","Tissue","RNA-Seq","homo_sapiens",NA
+"GSE148937","GSM4486299","Prostate","Tissue","RNA-Seq","homo_sapiens",NA
+"E-MTAB-6490","ERR2303761","Retina","Cell","RNA-Seq","homo_sapiens",NA
+"GSE145122","GSM4306931","Cerebral cortex","Spheroid","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE145122","GSM4306932","Cerebral cortex","Spheroid","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE173339","GSM5266069","Pancreas","Cell","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE173339","GSM5266070","Pancreas","Cell","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE176031","GSM5353230","Prostate","Tissue","scRNA-Seq(Drop-Seq)","homo_sapiens",NA
+"GSE176031","GSM5353231","Prostate","Tissue","scRNA-Seq(Drop-Seq)","homo_sapiens",NA
+"GSE176031","GSM5353234","Prostate","Tissue","scRNA-Seq(Drop-Seq)","homo_sapiens",NA
+"GSE176031","GSM5353235","Prostate","Tissue","scRNA-Seq(Drop-Seq)","homo_sapiens",NA
+"GSE176031","GSM5353238","Prostate","Tissue","scRNA-Seq(Drop-Seq)","homo_sapiens",NA
+"GSE176031","GSM5353239","Prostate","Tissue","scRNA-Seq(Drop-Seq)","homo_sapiens",NA
+"GSE176031","GSM5353241","Prostate","Tissue","scRNA-Seq(Drop-Seq)","homo_sapiens",NA
+"GSE176031","GSM5353242","Prostate","Tissue","scRNA-Seq(Drop-Seq)","homo_sapiens",NA
+"GSE142489","GSM4230367","Prostate","Organoid","scRNA-Seq(10X)","homo_sapiens","Ods006583"
+"GSE142489","GSM4230369","Prostate","Organoid","scRNA-Seq(10X)","homo_sapiens","Ods006585"
+"GSE123133","GSM3496210","Bile duct","Cell","RNA-Seq","mus_musculus",NA
+"GSE123133","GSM3496211","Bile duct","Cell","RNA-Seq","mus_musculus",NA
+"GSE123133","GSM3496212","Bile duct","Cell","RNA-Seq","mus_musculus",NA
+"GSE161039","GSM4888804","Bile duct","Organoid","RNA-Seq","mus_musculus","Ods009038"
+"GSE161039","GSM4888807","Bile duct","Organoid","RNA-Seq","mus_musculus","Ods009041"
+"GSE161039","GSM4888810","Bile duct","Organoid","RNA-Seq","mus_musculus","Ods009044"
+"GSE131186","GSM3765467","Intestine","Cell","RNA-Seq","mus_musculus",NA
+"GSE131186","GSM3765468","Intestine","Cell","RNA-Seq","mus_musculus",NA
+"GSE131186","GSM3765469","Intestine","Cell","RNA-Seq","mus_musculus",NA
+"GSE131186","GSM3765470","Intestine","Cell","RNA-Seq","mus_musculus",NA
+"GSE182877","GSM5542377","Liver","Cell","RNA-Seq","mus_musculus",NA
+"GSE182877","GSM5542378","Liver","Cell","RNA-Seq","mus_musculus",NA
+"GSE182877","GSM5542379","Liver","Cell","RNA-Seq","mus_musculus",NA
+"GSE182877","GSM5542380","Liver","Cell","RNA-Seq","mus_musculus",NA
+"GSE182877","GSM5542381","Liver","Cell","RNA-Seq","mus_musculus",NA
+"GSE182877","GSM5542382","Liver","Cell","RNA-Seq","mus_musculus",NA
+"GSE153677","GSM4649104","Lung","Organoid","RNA-Seq","mus_musculus","Ods008415"
+"GSE153677","GSM4649105","Lung","Organoid","RNA-Seq","mus_musculus","Ods008416"
+"GSE153677","GSM4649108","Lung","Organoid","RNA-Seq","mus_musculus","Ods008419"
+"GSE153677","GSM4649109","Lung","Organoid","RNA-Seq","mus_musculus","Ods008420"
+"GSE95491","GSM2515281","Lymphoid Tissue","Tissue","RNA-Seq","mus_musculus",NA
+"GSE95491","GSM2515282","Lymphoid Tissue","Tissue","RNA-Seq","mus_musculus",NA
+"GSE95491","GSM2515283","Lymphoid Tissue","Tissue","RNA-Seq","mus_musculus",NA
+"GSE95491","GSM2515284","Lymphoid Tissue","Tissue","RNA-Seq","mus_musculus",NA
+"GSE95491","GSM2515285","Lymphoid Tissue","Tissue","RNA-Seq","mus_musculus",NA
+"GSE95491","GSM2515286","Lymphoid Tissue","Tissue","RNA-Seq","mus_musculus",NA
+"GSE125380","GSM3573066","Pancreas","Organoid","RNA-Seq","mus_musculus","Ods004492"
+"GSE125380","GSM3573067","Pancreas","Organoid","RNA-Seq","mus_musculus","Ods004493"
+"GSE125380","GSM3573070","Pancreas","Organoid","RNA-Seq","mus_musculus","Ods004496"
+"GSE117431","GSM3294584","Prostate","Organoid","RNA-Seq","mus_musculus","Ods001250"
+"GSE117431","GSM3294585","Prostate","Organoid","RNA-Seq","mus_musculus","Ods001251"
+"GSE117431","GSM3294586","Prostate","Organoid","RNA-Seq","mus_musculus","Ods001252"
+"GSE65395","GSM1900651","Stomach","Spheroid","RNA-Seq","mus_musculus",NA
+"GSE65395","GSM1900652","Stomach","Spheroid","RNA-Seq","mus_musculus",NA
+"GSE65395","GSM1900653","Stomach","Spheroid","RNA-Seq","mus_musculus",NA
+"GSE73336","GSM1891192","Stomach","Tissue","RNA-Seq","mus_musculus",NA
+"GSE73336","GSM1891193","Stomach","Tissue","RNA-Seq","mus_musculus",NA
+"GSE73336","GSM1891194","Stomach","Tissue","RNA-Seq","mus_musculus",NA
+"GSE73336","GSM1891195","Stomach","Tissue","RNA-Seq","mus_musculus",NA
+"GSE148366","GSM4462956","Small Intestine","Organoid","scRNA-Seq(10X)","mus_musculus",NA
+"GSE150695","GSM4556832","Breast","Cell","RNA-Seq","homo_sapiens",NA
+"GSE150695","GSM4556833","Breast","Cell","RNA-Seq","homo_sapiens",NA
+"GSE150695","GSM4556834","Breast","Cell","RNA-Seq","homo_sapiens",NA
+"GSE150695","GSM4556835","Breast","Cell","RNA-Seq","homo_sapiens",NA
+"GSE150695","GSM4556836","Breast","Cell","RNA-Seq","homo_sapiens",NA
+"GSE150695","GSM4556837","Breast","Cell","RNA-Seq","homo_sapiens",NA
+"GSE150695","GSM4556838","Breast","Cell","RNA-Seq","homo_sapiens",NA
+"GSE150695","GSM4556839","Breast","Cell","RNA-Seq","homo_sapiens",NA
+"GSE150695","GSM4556840","Breast","Cell","RNA-Seq","homo_sapiens",NA
+"GSE150695","GSM4556841","Breast","Organoid","RNA-Seq","homo_sapiens","Ods016210"
+"GSE150695","GSM4556842","Breast","Organoid","RNA-Seq","homo_sapiens","Ods016211"
+"GSE150695","GSM4556843","Breast","Organoid","RNA-Seq","homo_sapiens","Ods016212"
+"GSE150695","GSM4556844","Breast","Organoid","RNA-Seq","homo_sapiens","Ods016213"
+"GSE150695","GSM4556845","Breast","Organoid","RNA-Seq","homo_sapiens","Ods016214"
+"GSE150695","GSM4556846","Breast","Organoid","RNA-Seq","homo_sapiens","Ods016215"
+"GSE150695","GSM4556847","Breast","Organoid","RNA-Seq","homo_sapiens","Ods016216"
+"GSE150695","GSM4556848","Breast","Organoid","RNA-Seq","homo_sapiens","Ods016217"
+"GSE150695","GSM4556849","Breast","Organoid","RNA-Seq","homo_sapiens","Ods016218"
+"GSE163964","GSM5291800","Pancreas","Cell","RNA-Seq","homo_sapiens",NA
+"GSE163964","GSM5291801","Pancreas","Cell","RNA-Seq","homo_sapiens",NA
+"GSE163964","GSM5291802","Pancreas","Cell","RNA-Seq","homo_sapiens",NA
+"GSE163964","GSM5291803","Pancreas","Cell","RNA-Seq","homo_sapiens",NA
+"GSE163964","GSM5291804","Pancreas","Cell","RNA-Seq","homo_sapiens",NA
+"GSE163964","GSM5291805","Pancreas","Cell","RNA-Seq","homo_sapiens",NA
+"GSE163964","GSM5291806","Pancreas","Cell","RNA-Seq","homo_sapiens",NA
+"GSE163964","GSM5291807","Pancreas","Cell","RNA-Seq","homo_sapiens",NA
+"GSE198864","GSM5958231","Lung","Cell","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE198864","GSM5958232","Lung","Cell","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE198864","GSM5958243","Lung","Cell","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE198864","GSM5958244","Lung","Cell","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE198864","GSM5958253","Lung","Tissue","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE198864","GSM5958254","Lung","Tissue","scRNA-Seq(10X)","homo_sapiens",NA
+"GSE198864","GSM5958257","Lung","Tissue","scRNA-Seq(10X)","homo_sapiens",NA
