@@ -1,16 +1,5 @@
 #!/usr/bin/env python3
-"""
-Download primary-tissue RNA-seq counts from GTEx for the same tissue classes
-as the organoid matrix, and convert them to the same gene ids (Entrez GeneID).
 
-Run after get_organoid_data.py, from the same folder:
-    python get_gtex_data.py
-    python get_gtex_data.py --max-per-tissue 200
-    python get_gtex_data.py --version v8        # if a v10 download fails
-
-Needs Human.GRCh38.p13.annot.tsv.gz (the NCBI annotation file) in this folder.
-Requires: pip install pandas requests
-"""
 import argparse
 from pathlib import Path
 
